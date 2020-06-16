@@ -16,6 +16,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <modules>
+                <module>rate-limiter</module>
             </modules>
         </profile>
     </profiles>
